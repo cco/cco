@@ -1,6 +1,6 @@
 ## Hey, I'm cco. 
 
-Sysadmin, systems analyst, and developer. I am also the owner of Kulshan Labs, an IT consultancy business with a focus on small businesses and building pathes for modernization. 
+Sysadmin, systems analyst, and developer. I am also the owner of Kulshan Labs, an IT consultancy business with a focus on small businesses and building paths for modernization. 
 
 Outside of general administration and development, I also have a love for security. Much of my senior capstone centered around building command centers for malware distribution (in the "approved by the university" sense 👻).
 
